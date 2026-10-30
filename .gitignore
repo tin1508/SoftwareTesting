@@ -1,0 +1,14 @@
+#pdf
+*.pdf
+#vscode setting
+.vscode
+#python cache
+__pycache__/
+*.py[cod]
+# virtual environments
+.venv/
+venv/
+# jupyter checkpoints
+.ipynb_checkpoints/
+# environment variables
+.env
